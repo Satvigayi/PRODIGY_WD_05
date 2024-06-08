@@ -34,6 +34,6 @@ Follow these instructions to set up the project locally on your machine.
  
 2. Change the directory:
 
-   '''bash
+   ```bash
    cd weatherapp
 
